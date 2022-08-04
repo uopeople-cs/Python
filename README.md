@@ -15,3 +15,4 @@ Also, if you clone these projects, make sure to read the code before executing, 
     import sys
     import subsystem
 
+For styling conventions please refer to https://peps.python.org/pep-0008/#type-variable-names
