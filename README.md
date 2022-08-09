@@ -13,5 +13,6 @@ Make sure to name your files in an intuitive way so people know what is about.
 Also, if you clone these projects, make sure to read the code before executing, especially is you see system calls from system modules, you can spot them if you see anything like this been imported.
 
     import sys
+    import os
     import subsystem
 
